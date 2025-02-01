@@ -15,7 +15,7 @@
   ✌️&emsp;I have a strong passion for programming and knowledge sharing.<br/>
   ❤️&emsp;I enjoy writing code and am committed to continuous learning in the field of technology.<br/>
   💼&emsp;I am currently open to various job opportunities that align with my skills and interests.<br/>
-  📚&emsp;I am actively enhancing my capabilities in full-stack development by learning the MERN stack (MongoDB, Express.js, React.js, Node.js).<br/>
+  📚&emsp;I am actively enhancing my capabilities in full-stack development by learning the MERN stack.<br/>
   💬&emsp;Please feel free to reach out if you have any tech-related inquiries; I am eager to assist and share my knowledge.
 </p>
 <br/>
